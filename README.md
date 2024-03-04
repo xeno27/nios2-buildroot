@@ -18,3 +18,8 @@ projects together as a github project.
 
 * [Buildroot-Submodule Instructions](doc/buildroot-submodule.md)
 * [Image Creation Process](doc/max10-image-conversion.md)
+
+
+install
+u-boot-tools
+libssl-dev
